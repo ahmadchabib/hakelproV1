@@ -15,7 +15,11 @@ merah = '\x1b[1;91m'
 gelap = '\x1b[0;37m'
 
 logo = """
-    | | %sAuthor %s: %sAHMAD ID
+%s ___ _ __   __ _ _ __ ___  _ __ ___   ___ _ __
+/ __| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _ \ '__|
+\__ \ |_) | (_| | | | | | | | | | | |  __/ |
+|___/ .__/ \__,_|_| |_| |_|_| |_| |_|\___|_|
+    | | %sAuthor %s: %s AHMAD CHABIB ID
 %s    |_| %sGithub %s: %shttps://github.com/ahmadchabib 
 """%(cyan,hijau,merah,putih,cyan,hijau,merah,putih)
 
